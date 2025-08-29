@@ -1,22 +1,22 @@
-# 55GMS
+![image](https://github.com/Stari-Div/Violet2/blob/main/markdown/v2.png?raw=true)
 
-Welcome to 55GMS, a website for unblocked games, apps, and proxies. Our goal is to provide a safe and enjoyable experience for users who want to access blocked content.
+Welcome to Violet 2, a website for unblocked games, apps, and proxies. Our goal is to provide a safe and enjoyable experience for users who want to access blocked content.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/55gms/55gms)
-![Commit](https://img.shields.io/github/commit-activity/w/55gms/55gms)
+![GitHub repo size](https://img.shields.io/github/repo-size/Stari-Div/Violet2)
+![Commit](https://img.shields.io/github/commit-activity/w/Stari-Div/Violet2)
 ![Site](https://img.shields.io/website?url=https%3A%2F%2F55gms.com)
 ![Uptime](https://img.shields.io/uptimerobot/ratio/7/m793507060-97e6bef63b62591b668ced4f)
 
 ## Contributing
 
-Contributing to 55GMS is simple, all you need is to fork this repository and create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) that we will review and maybe merge.
+Contributing to Violet is simple; all you need to do is fork this repository and create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). We will review the content and may consider merging it.
 
 ## Deploying
 
 ### Quick Deployment
 
 > [!NOTE]
-> You **can't** deploy to static hosts, like Netlify, Cloudflare Pages, or GitHub Pages.
+> You **can't** deploy to static hosts, like Netlify, Cloudflare Pages, or GitHub Pages. Also, by using these links, you are using the 55gms website, not Violet 2.
 
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/55gms/55GMS)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/55gms/55GMS&branch=main&name=55gms)
@@ -49,15 +49,7 @@ Finally, Go to ports and click on the link.
 
 Instructions to deploy to a VPS can be found on the wiki, or <a href='https://github.com/55gms/55GMS/wiki'>here</a>
 
-## Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/aa0d492e7df85dd81f1e15509991745130be77cd.svg "Repobeats analytics image")
-
 ## Credits
 
 - [Interstellar](https://github.com/UseInterstellar/Interstellar) - Some of the proxy code and nav
 - [3kh0](https://gitlab.com/3kh0/3kh0-assets) - Some of games src
-
-### Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=55gms/55GMS)](https://github.com/55gms/55GMS/graphs/contributors)
