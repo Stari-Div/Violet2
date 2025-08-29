@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 .navbar {
   box-sizing: border-box;
-  background: #1a1a1a;
+  background: #111111;
   box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.5);
   backdrop-filter: #1a1a1a;
   -webkit-backdrop-filter: #161616;
@@ -22,7 +22,7 @@
 }
 
 @keyframes bluetowhitestartup {
-  from {color: rgb(17, 0, 255);}
+  from {color: rgb(174, 0, 255);}
   to {color: rgb(255, 255, 255);}
 }
 
@@ -36,8 +36,8 @@
 }
 .navbar a:not(:first-child):hover {
   font-size: 18px;
-  color: #000000; /* #bbbbbb is og */
-  background-color: rgb(0, 162, 255);
+  color: #ffffff; /* #bbbbbb is og */
+  background-color: rgb(174, 0, 255);
   border-radius: 10px;
   scale: 1.05;
 }
@@ -52,8 +52,8 @@
 }
 .navbar a:first-child:hover {
   transform: translateX(10px);
-  color: #000000; /* #bbbbbb is og */
-  background-color: rgb(0, 162, 255);
+  color: #ffffff; /* #bbbbbb is og */
+  background-color: rgb(174, 0, 255);
   border-radius: 10px;
   scale: 1.1;
 }
