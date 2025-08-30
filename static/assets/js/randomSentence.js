@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch((error) => {
       document.getElementById("sub").innerHTML =
-        "idk what happened something broke";
+        "What the fuck, I think somthing broke twin...";
     });
 });
