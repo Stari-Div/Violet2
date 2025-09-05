@@ -24,15 +24,54 @@
 </head>
 
 <body>
-  <nav>
+
     <div class="navbar">
-      <a id="nav-title" class='title' href="/">Violet 2</a>
-      <a href="/g"><i class="fa-solid fa-gamepad">&nbsp;</i>Games</a>
-      <a href="/a"><i class="fa-solid fa-box-archive">&nbsp;</i>Apps</a>
-      <a href="/s"><i class="fa-solid fa-gears">&nbsp;</i>Settings</a>
+
+    <!-- Left Section -->
+    <div class="navbar-left">
+      <a href="#">Link Hub<span class="live-badge">WIP</span></a>
     </div>
-  </nav>
+
+    <!-- Center Logo -->
+    <div class="navbar-center">
+      <img src="https://i.postimg.cc/DZvfyysD/v2.png" alt="Violet2 Logo" class="logo" />
+    </div>
+
+    <!-- Right Section -->
+    <div class="navbar-right">
+      <a href="#">Apps</a>
+      <a href="#">Games<span class="live-badge">New</span></a>
+    </div>
+  </div>
   
+  <div class="bubbles"></div>
+
+  <script>
+    const bubbleContainer = document.querySelector('.bubbles');
+    const bubbleCount = 100; // Change this number for more or fewer bubbles
+
+    for (let i = 0; i < bubbleCount; i++) {
+      const bubble = document.createElement('div');
+      bubble.classList.add('bubble');
+
+      // Random size
+      const size = Math.random() * 8 + 4; // 4px to 12px
+      bubble.style.width = `${size}px`;
+      bubble.style.height = `${size}px`;
+
+      // Random horizontal position
+      bubble.style.left = `${Math.random() * 100}%`;
+
+      // Random animation duration
+      bubble.style.animationDuration = `${5 + Math.random() * 15}s`; // 5s to 20s
+
+      // Random delay for more natural motion
+      bubble.style.animationDelay = `${Math.random() * 20}s`;
+
+      bubbleContainer.appendChild(bubble);
+    }
+  </script>
+
   <h1 id="title">Welcome, Guest</h1>
   <h1 id="sub">
     &nbsp;
