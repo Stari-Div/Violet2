@@ -4,8 +4,6 @@ Welcome to Violet 2, a website for unblocked games, apps, and proxies. Our goal 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Stari-Div/Violet2)
 ![Commit](https://img.shields.io/github/commit-activity/w/Stari-Div/Violet2)
-![Site](https://img.shields.io/website?url=https%3A%2F%2F55gms.com)
-![Uptime](https://img.shields.io/uptimerobot/ratio/7/m793507060-97e6bef63b62591b668ced4f)
 
 ## Contributing
 
@@ -24,7 +22,7 @@ Contributing to Violet is simple; all you need to do is fork this repository and
 
 ### Deploy to Codespaces
 
-#### Note, Codespaces does not let your site run forever, if you leve the codespaces tab alone for to long it will turn your site off.
+#### Note, Codespaces does not let your site run forever, if you leave the Codespaces tab alone for too long, it will turn your site off.
 
 At the top of this repo, click Code.
 ![image](https://github.com/user-attachments/assets/f39210a7-33a2-4ee8-b8da-97a894ddbf03)
@@ -44,10 +42,6 @@ Click Make Public.
 Finally, Go to ports and click on the link.
 
 ![image](https://github.com/user-attachments/assets/38b12552-aedb-442e-93c9-d2cda4904e49)
-
-### Deploy to a VPS
-
-Instructions to deploy to a VPS can be found on the wiki, or <a href='https://github.com/55gms/55GMS/wiki'>here</a>
 
 ## Credits
 
